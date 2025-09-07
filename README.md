@@ -14,8 +14,7 @@ El modelo se construye bajo supuestos de **flujo ideal, incompresible, estaciona
 ## 📖 Contenido del repositorio
 
 - `Modelo_Huracanes.ipynb` → Notebook principal con deducciones teóricas, implementación en Python y visualización.
-- `Modelo_Huracanes.pdf` → Documento en formato PDF con la formalización matemática, resultados y figuras.
-- (Opcional) Carpeta `img/` → figuras y gráficas generadas.
+- `AMPLÍE SU HORIZONTE DEL CÁLCULO.pdf` → Documento en formato PDF con la guia para el proyecto.
 
 ---
 
